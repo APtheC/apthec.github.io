@@ -4,5 +4,8 @@ This is my  website
 
 
 
+<br>
+this is my friend's website!
+feel free to look at his website!
 
 <p> &copy; <a href="https://www.quantumdev.rf.gd" target="_blank">QuantumDev</a></p>
